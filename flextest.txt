@@ -1,30 +1,7 @@
-start
-etywgd
-hasiukhd
-dhasj
-jdxkajjnd
-kdhxkajdo
-sijaokap
-circle
-ndandopj
-najdik
-slajl
-jnllsa
-nknaskjdla
-line
-kjasnkdcnks
-dkjsnkdcsn
-snaLSNKANS
-NAKBKAKA
-ndadkldla
-ellipse
-nksankcnskjncsl
-kscnladmlajmdxaljdxkna
-xbkaxnk
-bkakankdn
-dndkankdand
-naknkankd
-line
-ghfyhjgblkijmkcxdxcujk
-arc
+A geometric shape is the geometric information which remains when location, scale, orientation and reflection are removed from the description of a geometric object.[1] That is, the result of moving a shape around, enlarging it, rotating it, or reflecting it in a mirror is the same shape as the original, and not a distinct shape.
 
+Objects that have the same shape as each other are said to be similar. If they also have the same scale as each other, they are said to be congruent.
+
+Many two-dimensional geometric shapes can be defined by a set of points or vertices and line connecting the points in a closed chain, as well as the resulting interior point. Such shapes are called polygons and include triangles, squares, and pentagons. Other shapes may be bounded by curves such as the circle or the ellipse.
+
+Many three-dimensional geometric shapes can be defined by a set of vertices, lines connecting the vertices, and two-dimensional faces enclosed by those lines, as well as the resulting interior points. Such shapes are called polyhedrons and include cubes as well as pyramids such as tetrahedrons. Other three-dimensional shapes may be bounded by curved surfaces, such as the ellipse and circle.
